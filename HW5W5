@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+<head>
+<title>英雄之路</title>
+</head>
+<body>
+<header>
+<h1>符文大地傳說-英雄之路</h1>
+</header>
+<nav>
+<ul class="nav justify-content-center">
+  <li class="nav-item">
+    <a class="nav-link active" aria-current="page" href="#">Active</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="#">Link</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="#">Link</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link disabled">Disabled</a>
+  </li>
+</ul>
+</nav>
+<article>
+<p>喵</p>
+</article>
+<footer>
+<p><small>喵喵公司所有</small></p>
+</footer>
+</body>
+</html>
